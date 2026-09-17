@@ -1,0 +1,5 @@
+com\example\ac1p2\Ac1p2Application.class
+com\example\ac1p2\models\Diretor.class
+com\example\ac1p2\models\Filme.class
+com\example\ac1p2\Repositories\FilmeRepository.class
+com\example\ac1p2\Repositories\DiretorRepository.class

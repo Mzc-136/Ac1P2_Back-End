@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ac1p2.Ac1p2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.126 s -- in com.example.ac1p2.Ac1p2ApplicationTests
